@@ -1,4 +1,4 @@
-git clone https://github.com/sarahtran/sarahtran.github.io
+git clone https://github.com/Sarah-Tr/sarahtran.github.io
 cd sarahtran.github.io
 echo "Hello World" > index.html
 git add --all
